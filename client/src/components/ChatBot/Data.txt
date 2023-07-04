@@ -1,0 +1,10 @@
+API Key: AIzaSyDsspDuVwNTIiCXI4Bmbuvhq6gcaKR_l9A
+
+
+<script async src="https://cse.google.com/cse.js?cx=a07c7d2c7bdc54d19">
+</script>
+<div class="gcse-search"></div>
+
+Search engine ID: a07c7d2c7bdc54d19
+
+https://www.googleapis.com/customsearch/v1?key=AIzaSyDsspDuVwNTIiCXI4Bmbuvhq6gcaKR_l9A&cx=a07c7d2c7bdc54d19&q=java
